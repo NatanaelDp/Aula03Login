@@ -1,0 +1,11 @@
+C:\Users\natanael.apaula\source\repos\Aula03Login\Aula03Login\bin\Debug\Aula03Login.exe.config
+C:\Users\natanael.apaula\source\repos\Aula03Login\Aula03Login\bin\Debug\Aula03Login.exe
+C:\Users\natanael.apaula\source\repos\Aula03Login\Aula03Login\bin\Debug\Aula03Login.pdb
+C:\Users\natanael.apaula\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.csproj.AssemblyReference.cache
+C:\Users\natanael.apaula\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\natanael.apaula\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.Properties.Resources.resources
+C:\Users\natanael.apaula\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.csproj.GenerateResource.cache
+C:\Users\natanael.apaula\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.csproj.CoreCompileInputs.cache
+C:\Users\natanael.apaula\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.exe
+C:\Users\natanael.apaula\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.pdb
+C:\Users\natanael.apaula\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.Form1.resources
